@@ -11,8 +11,7 @@ The project was developed using Java Enterprise technologies and follows the Mod
 2. Browse and search festival events
 3. View detailed event information
 4. Event booking management
-5. User profile management
-6. Centralized event information platform
+5. Centralized event information platform
 
 **Technologies Used**
 **Frontend**
